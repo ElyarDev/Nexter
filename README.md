@@ -1,6 +1,6 @@
 # 🏠 Nexter
 
-A modern and responsive **real estate website** built with **HTML, SCSS, and BEM methodology**.
+A modern and responsive **real estate website** built with **HTML, SCSS, CSS Grid, and Flexbox**.
 
 Nexter is a real estate landing page designed for showcasing luxury homes, properties, realtors, and premium real estate services with a clean and modern interface.
 
@@ -14,14 +14,14 @@ Nexter is a real estate landing page designed for showcasing luxury homes, prope
 * 💰 Property pricing
 * 🖼️ Responsive image gallery
 * 🔐 Secure payment feature
-* 📱 Responsive layout for different screen sizes
+* 📱 Responsive layout
 * 🎨 Modern and clean UI
 * 🔷 SVG icon sprite
 * 🧩 BEM-based class naming
 
 ### 🛠️ Built With
 
-* **HTML5** — Semantic structure
+* **HTML5** — Semantic page structure
 * **SCSS** — Advanced styling and responsive layouts
 * **CSS Grid & Flexbox** — Page layout
 * **BEM** — Maintainable CSS architecture
@@ -40,14 +40,14 @@ Nexter/
 └── README.md
 ```
 
-### 🎯 Project Sections
-
-The website includes a hero section, realtors, property features, customer story, available homes, image gallery, and footer navigation.
-
-### 🎯 Purpose
+### 🎯 Project Purpose
 
 This project was created as a **frontend development practice project** to improve skills in responsive layouts, SCSS architecture, CSS Grid, Flexbox, BEM methodology, and modern UI development.
 
 ---
 
-Made with ❤️
+Made with ❤️ by **Elyar**
+
+### 🌐 Live Demo
+
+🔗 **[View Nexter Live](https://elyardev.github.io/Nexter/)**
