@@ -1,7 +1,5 @@
 # 🏡 Nexter — Modern Real Estate Website
 
-![Nexter Preview](img/preview.png)
-
 **Nexter** is a modern and responsive real estate website built with a strong focus on advanced CSS layouts, responsive design, and clean visual structure.
 
 The project presents a fictional real estate platform where users can explore luxury properties, view featured houses, and discover professional real estate agents through a polished and modern interface.
